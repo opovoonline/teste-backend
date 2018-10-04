@@ -3,7 +3,7 @@ Este repositório foi criado com intuito de disponibilizar os pré-requisitos e 
 
 ## Introdução
 
-Desenvolva uma API com as seguintes caracteristicas:
+Desenvolva uma API que contemple as atividades citadas abaixo.
 
 
 ## Requisitos
