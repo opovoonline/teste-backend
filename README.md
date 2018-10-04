@@ -17,27 +17,13 @@ Desenvolva uma API com as seguintes caracteristicas:
 
 ## Atividades
 
-1. Criar lista de notícias
-
-2. Uma maneira de atualizar, criar, editar e deletar uma notícia
-
-3. Utilize o arquivo README.md para detalhar o que foi feito e como o código pode ser executado/testado.
-
-4. Use qualquer linguagem citada acima e/ou framework backend para desenvolver o que foi solicitado
+- Criar lista de notícias
+- Uma maneira de atualizar, criar, editar e deletar uma notícia
+- Utilize o arquivo README.md para detalhar o que foi feito e como o código pode ser executado/testado
+- Use qualquer linguagem citada acima e/ou framework backend para desenvolver o que foi solicitado
 
 
 ## Critérios de avaliação 
-
-1. Entendimento de design patterns, OO e outros conceitos relacionados
-
-2. Ferramentas utilizadas
-
-3. Reuso do código
-
-4. Testes
-
-5. Habilidade de documentar o código
-
 
 Caso o projeto entregue seja enviado com todos os critérios acima, 
 serão levados em consideração também os seguintes conhecimentos:
